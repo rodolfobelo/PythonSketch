@@ -1,0 +1,1 @@
+assert calcula_media(8, 8) == 8

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParImparApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f00036312566e1c50590630e8c4f59d89bcfdfbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402ece8b49d52675d0386577c72a825ddec410b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParImparApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParImparApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
